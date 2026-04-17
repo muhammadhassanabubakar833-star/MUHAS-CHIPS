@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+THIS IS A VOTTING SYSTEM FOR THREE VOTERS 
 
 ## How to test
 
-Explain how to use your project
+USED AN LED TO TEST THE RESULT OF THE VOTTING 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED PUSHBUTTON 
